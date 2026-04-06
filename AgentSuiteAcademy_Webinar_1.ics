@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agent Suite Academy//Webinar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260416T160000Z
+DTEND:20260416T164500Z
+SUMMARY:Build. Launch. Profit. - The Agent Suite Bootcamp
+DESCRIPTION:Click here to join the live training:\nhttps://webinar.agentsuiteacademy.com/webinar/watch/69d419a069ecc910193a7f13
+LOCATION:https://webinar.agentsuiteacademy.com/webinar/watch/69d419a069ecc910193a7f13
+ORGANIZER;CN=Agent Suite Academy:mailto:info@agentsuiteacademy.com
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
