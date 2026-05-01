@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agent Suite AI//Webinar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:agent-suite-bootcamp-2026-05-07@agentsuite.ai
+DTSTAMP:20260501T000000Z
+DTSTART:20260507T160000Z
+DTEND:20260507T170000Z
+SUMMARY:Build. Launch. Profit. - The Agent Suite Bootcamp
+DESCRIPTION:Join us for the Agent Suite Bootcamp!\n\nWatch AI build your offer\, ads\, scripts\, and voice agent from scratch — in real-time.\n\nJoin Zoom Meeting:\nhttps://us06web.zoom.us/j/89333518991\n\nSee you there!
+LOCATION:https://us06web.zoom.us/j/89333518991
+URL:https://us06web.zoom.us/j/89333518991
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Build. Launch. Profit. - The Agent Suite Bootcamp starts in 1 hour
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Build. Launch. Profit. - The Agent Suite Bootcamp starts in 15 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
